@@ -33,7 +33,7 @@ Oracle VirtualBox was installed to create and manage virtual machines for the la
 
 Created the project folder structure and downloaded the required installation files for Windows Server.
 
-![Project Downloads](Projects/screenshots/02-downloads.png)
+![Project Downloads](screenshots/02-downloads.png)
 
 ---
 
