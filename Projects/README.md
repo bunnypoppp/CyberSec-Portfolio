@@ -4,7 +4,7 @@
 
 This project documents the beginning of my Active Directory home lab, where I am learning Windows Server administration and Active Directory from the ground up.
 
-The goal of this lab is to gain hands-on experience with enterprise technologies commonly used by Help Desk, System Administrators, and Cybersecurity professionals.
+The goal of this lab is to gain experience with enterprise technologies commonly used by Help Desk, System Administrators, and Cybersecurity professionals.
 
 ## Objectives
 
@@ -25,7 +25,7 @@ The goal of this lab is to gain hands-on experience with enterprise technologies
 
 Oracle VirtualBox was installed to create and manage virtual machines for the lab environment.
 
-![Oracle VirtualBox Installed](Projects/screenshots/01-oracle-installed.png)
+![Oracle VirtualBox Installed](screenshots/01-oracle-installed.png)
 
 ---
 
